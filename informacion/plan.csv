@@ -1,0 +1,639 @@
+codigo_asignatura;cantidad_estudiantes;codigo_plan;cupo;nivel;nombre_asignatura;codigo_carrera
+201;0;2017-1;40;1;Química General;132
+202;0;2017-1;40;1;Química Inorgánica;132
+203;0;2017-1;40;1;Química Orgánica;132
+204;0;2017-1;40;1;Termodinámica Química;132
+205;0;2017-1;40;1;Cinética Química;132
+206;0;2017-1;40;2;Fisicoquímica;132
+207;0;2017-1;40;2;Química Analítica;132
+208;0;2017-1;40;2;Análisis Instrumental;132
+209;0;2017-1;40;2;Química Cuántica;132
+210;0;2017-1;40;2;Mecánica Cuántica;132
+211;0;2017-1;40;2;Matemáticas para la Ingeniería;132
+212;0;2017-1;40;3;Álgebra Lineal;132
+213;0;2017-1;40;3;Cálculo Diferencial e Integral;132
+214;0;2017-1;40;3;Ecuaciones Diferenciales;132
+215;0;2017-1;40;3;Estadística y Probabilidad;132
+216;0;2017-1;40;3;Termodinámica de Procesos;132
+217;0;2017-1;40;3;Fenómenos de Transporte;132
+218;0;2017-1;40;4;Operaciones Unitarias;132
+219;0;2017-1;40;4;Balance de Materia y Energía;132
+220;0;2017-1;40;4;Termodinámica Aplicada;132
+221;0;2017-1;40;4;Transferencia de Calor;132
+222;0;2017-1;40;4;Transferencia de Masa;132
+223;0;2017-1;40;4;Ingeniería de Reactores Químicos;132
+224;0;2017-1;40;5;Diseño de Reactores;132
+225;0;2017-1;40;5;Ingeniería de Separaciones;132
+226;0;2017-1;40;5;Destilación;132
+227;0;2017-1;40;5;Extracción Líquido-Líquido;132
+228;0;2017-1;40;5;Adsorción;132
+229;0;2017-1;40;5;Cromatografía;132
+230;0;2017-1;40;6;Filtración;132
+231;0;2017-1;40;6;Secado;132
+232;0;2017-1;40;6;Cinética de Procesos;132
+233;0;2017-1;40;6;Ingeniería de Control de Procesos;132
+234;0;2017-1;40;6;Simulación de Procesos;132
+235;0;2017-1;40;6;Diseño de Plantas Químicas;132
+236;0;2017-1;40;7;Ingeniería de Seguridad en Procesos;132
+237;0;2017-1;40;7;Química Ambiental;132
+238;0;2017-1;40;7;Tratamiento de Aguas Residuales;132
+239;0;2017-1;40;7;Gestión de Residuos Químicos;132
+240;0;2017-1;40;7;Ingeniería de Materiales;132
+241;0;2017-1;40;7;Polímeros y Plásticos;132
+242;0;2017-1;40;8;Metalurgia Extractiva;132
+243;0;2017-1;40;8;Corrosión;132
+244;0;2017-1;40;8;Análisis de Peligros y Puntos Críticos de Control (HACCP);132
+245;0;2017-1;40;8;Ingeniería Farmacéutica;132
+246;0;2017-1;40;8;Biotecnología;132
+247;0;2017-1;40;8;Procesos de Producción de Alimentos;132
+248;0;2017-1;40;9;Ingeniería de Energía;132
+249;0;2017-1;40;9;Energías Renovables;132
+250;0;2017-1;40;9;Ingeniería Nuclear;132
+251;0;2017-1;40;9;Ingeniería de Petróleo y Gas;132
+252;0;2017-1;40;9;Ingeniería de Procesos en la Industria Química;132
+253;0;2017-1;40;10;Economía y Gestión de Proyectos;132
+254;0;2017-1;40;10;Ética Profesional en Ingeniería Química;132
+255;0;2017-1;40;10;Investigación en Ingeniería Química;132
+256;0;2017-1;40;10;Práctica Industrial;132
+257;0;2017-1;40;10;Seminario de Ingeniería Química;132
+258;0;2017-1;40;11;Proyecto de Tesis o Trabajo de Grado;132
+301;0;2014-2;40;1;Biología Celular;133
+302;0;2014-2;40;1;Biología Molecular;133
+303;0;2014-2;40;1;Anatomía y Fisiología Humana;133
+304;0;2014-2;40;1;Química General;133
+305;0;2014-2;40;1;Química Orgánica;133
+306;0;2014-2;40;2;Matemáticas para la Ingeniería;133
+307;0;2014-2;40;2;Cálculo Diferencial e Integral;133
+308;0;2014-2;40;2;Álgebra Lineal;133
+309;0;2014-2;40;2;Física para la Ingeniería;133
+310;0;2014-2;40;2;Termodinámica;133
+311;0;2014-2;40;2;Mecánica de Fluidos;133
+312;0;2014-2;40;3;Circuitos Eléctricos;133
+313;0;2014-2;40;3;Electrónica Básica;133
+314;0;2014-2;40;3;Bioquímica;133
+315;0;2014-2;40;3;Biomateriales;133
+316;0;2014-2;40;3;Bioinstrumentación;133
+317;0;2014-2;40;3;Procesamiento de Señales Biomédicas;133
+318;0;2014-2;40;4;Imágenes Médicas;133
+319;0;2014-2;40;4;Microbiología;133
+320;0;2014-2;40;4;Genética;133
+321;0;2014-2;40;4;Estadísticas en Biomedicina;133
+322;0;2014-2;40;4;Análisis de Datos Biomédicos;133
+323;0;2014-2;40;4;Ética en Ingeniería Biomédica;133
+324;0;2014-2;40;5;Biomecánica;133
+325;0;2014-2;40;5;Control de Sistemas Biológicos;133
+326;0;2014-2;40;5;Electromagnetismo Aplicado a la Medicina;133
+327;0;2014-2;40;5;Biomédica Óptica;133
+328;0;2014-2;40;5;Ingeniería Clínica;133
+329;0;2014-2;40;5;Diseño de Dispositivos Médicos;133
+330;0;2014-2;40;6;Instrumentación Biomédica Avanzada;133
+331;0;2014-2;40;6;Modelado de Sistemas Biológicos;133
+332;0;2014-2;40;6;Ingeniería Tisular;133
+333;0;2014-2;40;6;Ingeniería Genética;133
+334;0;2014-2;40;6;Nanotecnología en Biomedicina;133
+335;0;2014-2;40;6;Robótica Médica;133
+336;0;2014-2;40;7;Telemedicina;133
+337;0;2014-2;40;7;Rehabilitación Biomédica;133
+338;0;2014-2;40;7;Fisiología de Sistemas;133
+339;0;2014-2;40;7;Ingeniería de Control de Sistemas Médicos;133
+340;0;2014-2;40;7;Terapia Física y Rehabilitación;133
+341;0;2014-2;40;7;Diagnóstico por Imagen;133
+342;0;2014-2;40;8;Ingeniería de Radioterapia;133
+343;0;2014-2;40;8;Ingeniería Biomédica en Cardiología;133
+344;0;2014-2;40;8;Ingeniería Biomédica en Neurociencia;133
+345;0;2014-2;40;8;Ingeniería Biomédica en Ortopedia;133
+346;0;2014-2;40;8;Ingeniería Biomédica en Dermatología;133
+347;0;2014-2;40;8;Ingeniería Biomédica en Oftalmología;133
+348;0;2014-2;40;9;Ingeniería Biomédica en Ginecología y Obstetricia;133
+349;0;2014-2;40;9;Ingeniería Biomédica en Urología;133
+350;0;2014-2;40;9;Ingeniería Biomédica en Cirugía;133
+351;0;2014-2;40;9;Ingeniería Biomédica en Endocrinología;133
+352;0;2014-2;40;9;Ingeniería Biomédica en Gastroenterología;133
+353;0;2014-2;40;10;Ingeniería Biomédica en Oncología;133
+354;0;2014-2;40;10;Ingeniería Biomédica en Medicina Deportiva;133
+355;0;2014-2;40;10;Economía de la Salud;133
+356;0;2014-2;40;10;Gestión de Proyectos en Ingeniería Biomédica;133
+357;0;2014-2;40;10;Investigación en Ingeniería Biomédica;133
+358;0;2014-2;40;11;Proyecto de Tesis en Ingeniería Biomédica;133
+401;0;2010-3;40;1;Circuitos Eléctricos;134
+402;0;2010-3;40;1;Electromagnetismo;134
+403;0;2010-3;40;1;Electrónica Básica;134
+404;0;2010-3;40;1;Matemáticas para la Ingeniería;134
+405;0;2010-3;40;1;Cálculo Diferencial e Integral;134
+406;0;2010-3;40;2;Álgebra Lineal;134
+407;0;2010-3;40;2;Física para la Ingeniería;134
+408;0;2010-3;40;2;Termodinámica;134
+409;0;2010-3;40;2;Máquinas Eléctricas;134
+410;0;2010-3;40;2;Sistemas de Energía Eléctrica;134
+411;0;2010-3;40;2;Generación y Distribución de Energía;134
+412;0;2010-3;40;3;Control de Sistemas Eléctricos;134
+413;0;2010-3;40;3;Electrónica de Potencia;134
+414;0;2010-3;40;3;Microelectrónica;134
+415;0;2010-3;40;3;Electrónica Digital;134
+416;0;2010-3;40;3;Comunicaciones Eléctricas;134
+417;0;2010-3;40;3;Señales y Sistemas;134
+418;0;2010-3;40;4;Electrónica Analógica;134
+419;0;2010-3;40;4;Electrónica de Radiofrecuencia (RF);134
+420;0;2010-3;40;4;Mecánica Aplicada;134
+421;0;2010-3;40;4;Termodinámica Aplicada a Sistemas Eléctricos;134
+422;0;2010-3;40;4;Dispositivos Semiconductores;134
+423;0;2010-3;40;4;Convertidores de Energía;134
+424;0;2010-3;40;5;Teoría de Control;134
+425;0;2010-3;40;5;Sistemas Embebidos;134
+426;0;2010-3;40;5;Automatización Industrial;134
+427;0;2010-3;40;5;Diseño de Circuitos Impresos;134
+428;0;2010-3;40;5;Instrumentación y Medición;134
+429;0;2010-3;40;5;Microcontroladores;134
+430;0;2010-3;40;6;Electrónica de Alta Frecuencia;134
+431;0;2010-3;40;6;Sistemas de Comunicación Inalámbrica;134
+432;0;2010-3;40;6;Electrónica de Potencia Avanzada;134
+433;0;2010-3;40;6;Sistemas de Control Industrial;134
+434;0;2010-3;40;6;Robótica;134
+435;0;2010-3;40;6;Diseño de Circuitos Integrados;134
+436;0;2010-3;40;7;Sistemas de Energía Renovable;134
+437;0;2010-3;40;7;Protección de Sistemas Eléctricos;134
+438;0;2010-3;40;7;Energía Eléctrica y Medio Ambiente;134
+439;0;2010-3;40;7;Sistemas de Transmisión de Datos;134
+440;0;2010-3;40;7;Sistemas de Control Digital;134
+441;0;2010-3;40;7;Sistemas de Control de Procesos;134
+442;0;2010-3;40;8;Automatización y Control de Edificios;134
+443;0;2010-3;40;8;Electrónica Industrial;134
+444;0;2010-3;40;8;Diseño de Sistemas Electrónicos;134
+445;0;2010-3;40;8;Electrónica de Potencia Industrial;134
+446;0;2010-3;40;8;Gestión de Proyectos de Ingeniería Eléctrica;134
+447;0;2010-3;40;8;Ética en Ingeniería Eléctrica;134
+448;0;2010-3;40;9;Electromagnetismo Aplicado;134
+449;0;2010-3;40;9;Análisis de Circuitos de Alta Frecuencia;134
+450;0;2010-3;40;9;Sistemas de Comunicación por Fibra Óptica;134
+451;0;2010-3;40;9;Sistemas de Energía Inteligente;134
+452;0;2010-3;40;9;Sistemas de Energía Nuclear;134
+453;0;2010-3;40;10;Generación Distribuida;134
+454;0;2010-3;40;10;Energías Renovables y Sostenibilidad;134
+455;0;2010-3;40;10;Diseño de Sistemas de Transmisión y Distribución;134
+456;0;2010-3;40;10;Ingeniería Eléctrica en Telecomunicaciones;134
+457;0;2010-3;40;10;Redes Eléctricas Inteligentes;134
+458;0;2010-3;40;11;Proyecto de Tesis en Ingeniería Eléctrica;134
+501;0;2015-1;40;1;Circuitos Electrónicos Básicos;135
+502;0;2015-1;40;1;Electromagnetismo;135
+503;0;2015-1;40;1;Matemáticas para la Ingeniería;135
+504;0;2015-1;40;1;Cálculo Diferencial e Integral;135
+505;0;2015-1;40;1;Álgebra Lineal;135
+506;0;2015-1;40;2;Física para la Ingeniería;135
+507;0;2015-1;40;2;Electrónica Analógica;135
+508;0;2015-1;40;2;Electrónica Digital;135
+509;0;2015-1;40;2;Circuitos Integrados;135
+510;0;2015-1;40;2;Microelectrónica;135
+511;0;2015-1;40;2;Señales y Sistemas;135
+512;0;2015-1;40;3;Comunicaciones Electrónicas;135
+513;0;2015-1;40;3;Teoría de Control;135
+514;0;2015-1;40;3;Electrónica de Potencia;135
+515;0;2015-1;40;3;Instrumentación Electrónica;135
+516;0;2015-1;40;3;Electrónica Industrial;135
+517;0;2015-1;40;3;Procesamiento de Señales;135
+518;0;2015-1;40;4;Diseño de Circuitos Electrónicos;135
+519;0;2015-1;40;4;Circuitos de Radiofrecuencia;135
+520;0;2015-1;40;4;Electrónica Digital Avanzada;135
+521;0;2015-1;40;4;Dispositivos Semiconductores;135
+522;0;2015-1;40;4;Electrónica de Potencia Avanzada;135
+523;0;2015-1;40;4;Microcontroladores;135
+524;0;2015-1;40;5;Sistemas Embebidos;135
+525;0;2015-1;40;5;Diseño de Circuitos Integrados;135
+526;0;2015-1;40;5;Sistemas de Comunicación Inalámbrica;135
+527;0;2015-1;40;5;Electrónica de Alta Frecuencia;135
+528;0;2015-1;40;5;Comunicaciones por Fibra Óptica;135
+529;0;2015-1;40;5;Robótica Electrónica;135
+530;0;2015-1;40;6;Automatización y Control Industrial;135
+531;0;2015-1;40;6;Sistemas de Control Digital;135
+532;0;2015-1;40;6;Sistemas de Control de Procesos;135
+533;0;2015-1;40;6;Sistemas de Control de Movimiento;135
+534;0;2015-1;40;6;Electrónica de Audio;135
+535;0;2015-1;40;6;Electrónica Médica;135
+536;0;2015-1;40;7;Electrónica de Consumo;135
+537;0;2015-1;40;7;Electrónica de Entretenimiento;135
+538;0;2015-1;40;7;Electrónica de Aviónica;135
+539;0;2015-1;40;7;Electrónica de Comunicación Satelital;135
+540;0;2015-1;40;7;Electrónica para Vehículos Autónomos;135
+541;0;2015-1;40;7;Electrónica de Redes de Sensores;135
+542;0;2015-1;40;8;Diseño de Sistemas Electrónicos;135
+543;0;2015-1;40;8;Electrónica Industrial Avanzada;135
+544;0;2015-1;40;8;Sistemas de Energía Electrónica;135
+545;0;2015-1;40;8;Nanoelectrónica;135
+546;0;2015-1;40;8;Ética en Ingeniería Electrónica;135
+547;0;2015-1;40;8;Gestión de Proyectos de Ingeniería Electrónica;135
+548;0;2015-1;40;9;Pruebas y Diagnóstico de Circuitos Electrónicos;135
+549;0;2015-1;40;9;Electromagnetismo Aplicado;135
+550;0;2015-1;40;9;Control de Calidad en Electrónica;135
+551;0;2015-1;40;9;Electrónica de Potencia Industrial;135
+552;0;2015-1;40;9;Dispositivos Optoelectrónicos;135
+553;0;2015-1;40;10;Electrónica Cuántica;135
+554;0;2015-1;40;10;Diseño de Sistemas de Comunicación;135
+555;0;2015-1;40;10;Electrónica de Baja Potencia;135
+556;0;2015-1;40;10;Electrónica Flexible y Impresa;135
+557;0;2015-1;40;10;Electrónica Sostenible y Ecoeficiente;135
+558;0;2015-1;40;11;Proyecto de Tesis en Ingeniería Electrónica;135
+601;0;2018-2;40;1;Introducción a la Ingeniería Industrial;136
+602;0;2018-2;40;1;Estadísticas y Probabilidad;136
+603;0;2018-2;40;1;Cálculo Diferencial e Integral;136
+604;0;2018-2;40;1;Álgebra Lineal;136
+605;0;2018-2;40;1;Física para Ingenieros;136
+606;0;2018-2;40;2;Química General;136
+607;0;2018-2;40;2;Termodinámica;136
+608;0;2018-2;40;2;Economía para Ingeniería;136
+609;0;2018-2;40;2;Métodos Cuantitativos para la Toma de Decisiones;136
+610;0;2018-2;40;2;Investigación de Operaciones;136
+611;0;2018-2;40;2;Sistemas de Producción;136
+612;0;2018-2;40;3;Diseño y Mejora de Procesos;136
+613;0;2018-2;40;3;Control de Calidad;136
+614;0;2018-2;40;3;Gestión de la Calidad Total;136
+615;0;2018-2;40;3;Ingeniería de Métodos;136
+616;0;2018-2;40;3;Ergonomía y Diseño de Estaciones de Trabajo;136
+617;0;2018-2;40;3;Gestión de la Cadena de Suministro;136
+618;0;2018-2;40;4;Logística y Distribución;136
+619;0;2018-2;40;4;Simulación de Procesos;136
+620;0;2018-2;40;4;Planificación y Programación de la Producción;136
+621;0;2018-2;40;4;Análisis de Riesgos;136
+622;0;2018-2;40;4;Estudio de Tiempos y Movimientos;136
+623;0;2018-2;40;4;Lean Manufacturing;136
+624;0;2018-2;40;5;Six Sigma;136
+625;0;2018-2;40;5;Mantenimiento Industrial;136
+626;0;2018-2;40;5;Gestión de Proyectos;136
+627;0;2018-2;40;5;Gestión de Inventarios;136
+628;0;2018-2;40;5;Análisis Financiero;136
+629;0;2018-2;40;5;Ingeniería de Costos;136
+630;0;2018-2;40;6;Diseño de Experimentos;136
+631;0;2018-2;40;6;Modelado y Simulación de Sistemas;136
+632;0;2018-2;40;6;Ingeniería de Calidad;136
+633;0;2018-2;40;6;Ingeniería de Fiabilidad;136
+634;0;2018-2;40;6;Automatización Industrial;136
+635;0;2018-2;40;6;Control Automático;136
+636;0;2018-2;40;7;Gestión de la Innovación;136
+637;0;2018-2;40;7;Gestión de la Tecnología;136
+638;0;2018-2;40;7;Ingeniería Ambiental;136
+639;0;2018-2;40;7;Ingeniería de Seguridad Industrial;136
+640;0;2018-2;40;7;Gestión de Recursos Humanos;136
+641;0;2018-2;40;7;Ética y Responsabilidad Social en Ingeniería Industrial;136
+642;0;2018-2;40;8;Legislación Laboral y Ambiental;136
+643;0;2018-2;40;8;Ingeniería Económica;136
+644;0;2018-2;40;8;Gestión de Procesos de Negocios (BPM);136
+645;0;2018-2;40;8;Optimización de la Cadena de Suministro;136
+646;0;2018-2;40;8;Análisis de Decisiones;136
+647;0;2018-2;40;8;Sistemas de Información Empresarial;136
+648;0;2018-2;40;9;Diseño de Almacenes y Centros de Distribución;136
+649;0;2018-2;40;9;Procesamiento de Datos en Tiempo Real;136
+650;0;2018-2;40;9;Gestión de la Innovación Tecnológica;136
+651;0;2018-2;40;9;Gestión de la Calidad en Servicios;136
+652;0;2018-2;40;9;Ingeniería Industrial en el Sector de la Salud;136
+653;0;2018-2;40;10;Ingeniería Industrial en el Sector de la Energía;136
+654;0;2018-2;40;10;Ingeniería Industrial en el Sector de la Manufactura;136
+655;0;2018-2;40;10;Ingeniería Industrial en el Sector de Servicios;136
+656;0;2018-2;40;10;Ingeniería Industrial en el Sector de la Logística;136
+657;0;2018-2;40;10;Gestión de la Producción;136
+658;0;2018-2;40;11;Proyecto de Tesis en Ingeniería Industrial;136
+701;0;2013-4;40;1;Introducción a la Programación;137
+702;0;2013-4;40;1;Estructuras de Datos;137
+703;0;2013-4;40;1;Algoritmos y Complejidad;137
+704;0;2013-4;40;1;Matemáticas Discretas;137
+705;0;2013-4;40;1;Fundamentos de Ingeniería de Software;137
+706;0;2013-4;40;2;Programación Orientada a Objetos;137
+707;0;2013-4;40;2;Diseño de Software;137
+708;0;2013-4;40;2;Ingeniería de Requisitos;137
+709;0;2013-4;40;2;Gestión de Proyectos de Software;137
+710;0;2013-4;40;2;Calidad de Software;137
+711;0;2013-4;40;2;Pruebas de Software;137
+712;0;2013-4;40;3;Arquitectura de Software;137
+713;0;2013-4;40;3;Desarrollo Ágil de Software;137
+714;0;2013-4;40;3;Desarrollo de Aplicaciones Web;137
+715;0;2013-4;40;3;Desarrollo de Aplicaciones Móviles;137
+716;0;2013-4;40;3;Diseño de Interfaces de Usuario;137
+717;0;2013-4;40;3;Ingeniería de Software Empresarial;137
+718;0;2013-4;40;4;Sistemas Distribuidos;137
+719;0;2013-4;40;4;Computación en la Nube;137
+720;0;2013-4;40;4;Big Data;137
+721;0;2013-4;40;4;Minería de Datos;137
+722;0;2013-4;40;4;Inteligencia Artificial;137
+723;0;2013-4;40;4;Aprendizaje Automático;137
+724;0;2013-4;40;5;Procesamiento de Lenguaje Natural;137
+725;0;2013-4;40;5;Robótica de Software;137
+726;0;2013-4;40;5;Desarrollo de Videojuegos;137
+727;0;2013-4;40;5;Seguridad de Software;137
+728;0;2013-4;40;5;Criptografía;137
+729;0;2013-4;40;5;Ética en la Ingeniería de Software;137
+730;0;2013-4;40;6;Ingeniería de Software Orientada a Servicios (SOA);137
+731;0;2013-4;40;6;DevOps y Continuous Integration/Continuous Deployment (CI/CD);137
+732;0;2013-4;40;6;Gestión de Configuración de Software;137
+733;0;2013-4;40;6;Modelado y Simulación;137
+734;0;2013-4;40;6;Análisis de Rendimiento de Software;137
+735;0;2013-4;40;6;Desarrollo de Software para Dispositivos Embebidos;137
+736;0;2013-4;40;7;Sistemas de Tiempo Real;137
+737;0;2013-4;40;7;Ingeniería de Software Basada en Componentes;137
+738;0;2013-4;40;7;Metodologías de Desarrollo de Software;137
+739;0;2013-4;40;7;Ingeniería de Software Experimental;137
+740;0;2013-4;40;7;Automatización de Pruebas;137
+741;0;2013-4;40;7;Ingeniería de Software para Sistemas Críticos;137
+742;0;2013-4;40;8;Desarrollo de Software Multiplataforma;137
+743;0;2013-4;40;8;Control de Versiones y Git;137
+744;0;2013-4;40;8;Administración de Proyectos de TI;137
+745;0;2013-4;40;8;Técnicas de Documentación de Software;137
+746;0;2013-4;40;8;Ingeniería de Software para Aplicaciones Empresariales;137
+747;0;2013-4;40;8;Análisis y Diseño de Bases de Datos;137
+748;0;2013-4;40;9;Desarrollo de Aplicaciones de Realidad Virtual y Aumentada;137
+749;0;2013-4;40;9;Desarrollo de Aplicaciones de Internet de las Cosas (IoT);137
+750;0;2013-4;40;9;Diseño de Sistemas de Información;137
+751;0;2013-4;40;9;Interacción Humano-Computadora;137
+752;0;2013-4;40;9;Desarrollo de Aplicaciones Basadas en Blockchain;137
+753;0;2013-4;40;10;Prácticas de Desarrollo Seguro (DevSecOps);137
+754;0;2013-4;40;10;Gobernanza de TI;137
+755;0;2013-4;40;10;Ética y Responsabilidad Profesional en Ingeniería de Software;137
+756;0;2013-4;40;10;Desarrollo de Software para Dispositivos Móviles Avanzados (Wearable Tech);137
+757;0;2013-4;40;10;Proyecto de Ingeniería de Software;137
+758;0;2013-4;40;11;Trabajo de Titulacion;137
+801;0;2015-6;40;1;Introducción a la Ingeniería Mecánica;138
+802;0;2015-6;40;1;Matemáticas para la Ingeniería;138
+803;0;2015-6;40;1;Cálculo Diferencial e Integral;138
+804;0;2015-6;40;1;Álgebra Lineal;138
+805;0;2015-6;40;1;Física para Ingenieros;138
+806;0;2015-6;40;2;Mecánica Clásica;138
+807;0;2015-6;40;2;Termodinámica;138
+808;0;2015-6;40;2;Mecánica de Fluidos;138
+809;0;2015-6;40;2;Transferencia de Calor;138
+810;0;2015-6;40;2;Mecánica de Materiales;138
+811;0;2015-6;40;2;Análisis de Vibraciones;138
+812;0;2015-6;40;3;Elementos de Máquinas;138
+813;0;2015-6;40;3;Ingeniería de Control;138
+814;0;2015-6;40;3;Diseño de Máquinas;138
+815;0;2015-6;40;3;Dinámica de Sistemas Mecánicos;138
+816;0;2015-6;40;3;Diseño Mecánico Asistido por Computadora (CAD);138
+817;0;2015-6;40;3;Fabricación y Procesos de Producción;138
+818;0;2015-6;40;4;Soldadura y Uniones Mecánicas;138
+819;0;2015-6;40;4;Ingeniería de Mantenimiento;138
+820;0;2015-6;40;4;Metrología y Control de Calidad;138
+821;0;2015-6;40;4;Tribología;138
+822;0;2015-6;40;4;Ingeniería de Plantas;138
+823;0;2015-6;40;4;Máquinas Térmicas;138
+824;0;2015-6;40;5;Ingeniería de Energía;138
+825;0;2015-6;40;5;Elementos Finitos;138
+826;0;2015-6;40;5;Ingeniería de Refrigeración y Aire Acondicionado;138
+827;0;2015-6;40;5;Diseño Asistido por Computadora (CAE);138
+828;0;2015-6;40;5;Automatización Industrial;138
+829;0;2015-6;40;5;Robótica Industrial;138
+830;0;2015-6;40;6;Ingeniería de Control de Procesos;138
+831;0;2015-6;40;6;Máquinas Herramienta;138
+832;0;2015-6;40;6;Sistemas de Transmisión Mecánica;138
+833;0;2015-6;40;6;Mecatrónica;138
+834;0;2015-6;40;6;Ingeniería de Proyectos;138
+835;0;2015-6;40;6;Toma de Decisiones en Ingeniería Mecánica;138
+836;0;2015-6;40;7;Ingeniería Ambiental y Sostenibilidad;138
+837;0;2015-6;40;7;Ingeniería de Sistemas Térmicos;138
+838;0;2015-6;40;7;Ingeniería de Sistemas de Fluidos;138
+839;0;2015-6;40;7;Ingeniería de Sistemas Estructurales;138
+840;0;2015-6;40;7;Ingeniería de Sistemas Mecánicos y Electromecánicos;138
+841;0;2015-6;40;7;Diseño de Experimentos en Ingeniería Mecánica;138
+842;0;2015-6;40;8;Ingeniería de Soldadura;138
+843;0;2015-6;40;8;Diseño de Elementos de Máquinas Avanzado;138
+844;0;2015-6;40;8;Ingeniería de Procesos de Fabricación;138
+845;0;2015-6;40;8;Análisis de Fallas y Fractura;138
+846;0;2015-6;40;8;Ingeniería de Control de Calidad;138
+847;0;2015-6;40;8;Gestión de Proyectos de Ingeniería Mecánica;138
+848;0;2015-6;40;9;Ética en Ingeniería Mecánica;138
+849;0;2015-6;40;9;Ingeniería de Sistemas de Automoción;138
+850;0;2015-6;40;9;Ingeniería de Sistemas Aeroespaciales;138
+851;0;2015-6;40;9;Ingeniería de Sistemas Marítimos;138
+852;0;2015-6;40;9;Ingeniería de Sistemas Ferroviarios;138
+853;0;2015-6;40;10;Ingeniería de Sistemas de Energía Renovable;138
+854;0;2015-6;40;10;Ingeniería de Sistemas de Transporte Público;138
+855;0;2015-6;40;10;Ingeniería de Sistemas de Manufactura;138
+856;0;2015-6;40;10;Ingeniería de Sistemas de Biomecánica;138
+857;0;2015-6;40;10;Ingeniería de Sistemas de Energía Nuclear;138
+858;0;2015-6;40;11;Proyecto de Tesis en Ingeniería Mecánica;138
+901;0;2019-3;40;1;Introducción a la Ingeniería Metalúrgica;139
+902;0;2019-3;40;1;Química General;139
+903;0;2019-3;40;1;Termodinámica Química;139
+904;0;2019-3;40;1;Cinética Química;139
+905;0;2019-3;40;1;Matemáticas para la Ingeniería;139
+906;0;2019-3;40;2;Cálculo Diferencial e Integral;139
+907;0;2019-3;40;2;Álgebra Lineal;139
+908;0;2019-3;40;2;Física para la Ingeniería;139
+909;0;2019-3;40;2;Mecánica de Fluidos;139
+910;0;2019-3;40;2;Resistencia de Materiales;139
+911;0;2019-3;40;2;Mecánica de Materiales;139
+912;0;2019-3;40;3;Procesos de Transformación de Metales;139
+913;0;2019-3;40;3;Fundamentos de Metalurgia;139
+914;0;2019-3;40;3;Metalurgia Extractiva;139
+915;0;2019-3;40;3;Metalurgia Física;139
+916;0;2019-3;40;3;Metalurgia Química;139
+917;0;2019-3;40;3;Fundición;139
+918;0;2019-3;40;4;Refinación de Metales;139
+919;0;2019-3;40;4;Tratamientos Térmicos;139
+920;0;2019-3;40;4;Conformado de Materiales Metálicos;139
+921;0;2019-3;40;4;Soldadura y Unión de Metales;139
+922;0;2019-3;40;4;Ensayos No Destructivos;139
+923;0;2019-3;40;4;Metalografía;139
+924;0;2019-3;40;5;Procesamiento de Minerales;139
+925;0;2019-3;40;5;Hidrometalurgia;139
+926;0;2019-3;40;5;Pirometalurgia;139
+927;0;2019-3;40;5;Electroquímica y Electrometalurgia;139
+928;0;2019-3;40;5;Metalurgia de Polvos;139
+929;0;2019-3;40;5;Materiales Compuestos;139
+930;0;2019-3;40;6;Materiales para Alta Temperatura;139
+931;0;2019-3;40;6;Materiales Magnéticos;139
+932;0;2019-3;40;6;Materiales Cerámicos;139
+933;0;2019-3;40;6;Materiales Poliméricos;139
+934;0;2019-3;40;6;Tecnología de Materiales Avanzados;139
+935;0;2019-3;40;6;Diseño de Experimentos en Metalurgia;139
+936;0;2019-3;40;7;Procesos de Reciclaje de Metales;139
+937;0;2019-3;40;7;Modelado y Simulación en Metalurgia;139
+938;0;2019-3;40;7;Automatización en Procesos Metalúrgicos;139
+939;0;2019-3;40;7;Control de Procesos en Metalurgia;139
+940;0;2019-3;40;7;Gestión Ambiental en Metalurgia;139
+941;0;2019-3;40;7;Gestión de la Calidad en la Industria Metalúrgica;139
+942;0;2019-3;40;8;Normativas y Regulaciones en Metalurgia;139
+943;0;2019-3;40;8;Ética en Ingeniería Metalúrgica;139
+944;0;2019-3;40;8;Economía y Gestión de Proyectos en Metalurgia;139
+945;0;2019-3;40;8;Investigación en Ingeniería Metalúrgica;139
+946;0;2019-3;40;8;Pruebas de Caracterización de Materiales;139
+947;0;2019-3;40;8;Ingeniería de Soldadura Avanzada;139
+948;0;2019-3;40;9;Metalurgia en la Industria Automotriz;139
+949;0;2019-3;40;9;Metalurgia en la Industria Aeroespacial;139
+950;0;2019-3;40;9;Metalurgia en la Industria Energética;139
+951;0;2019-3;40;9;Metalurgia en la Industria de la Construcción;139
+952;0;2019-3;40;9;Metalurgia en la Industria Química;139
+953;0;2019-3;40;10;Metalurgia en la Industria Electrónica;139
+954;0;2019-3;40;10;Metalurgia en la Industria Médica;139
+955;0;2019-3;40;10;Metalurgia en la Industria de la Alimentación;139
+956;0;2019-3;40;10;Metalurgia en la Industria del Petróleo y Gas;139
+957;0;2019-3;40;10;Metalurgia en la Industria Minera;139
+958;0;2019-3;40;11;Proyecto de Tesis en Ingeniería Metalúrgica;139
+1001;0;2011-5;40;1;Introducción a la Ingeniería de Minas;140
+1002;0;2011-5;40;1;Geología General;140
+1003;0;2011-5;40;1;Geología Aplicada a la Minería;140
+1004;0;2011-5;40;1;Topografía y Cartografía;140
+1005;0;2011-5;40;1;Matemáticas para Ingeniería;140
+1006;0;2011-5;40;2;Cálculo Diferencial e Integral;140
+1007;0;2011-5;40;2;Álgebra Lineal;140
+1008;0;2011-5;40;2;Física para Ingenieros;140
+1009;0;2011-5;40;2;Química General;140
+1010;0;2011-5;40;2;Termodinámica;140
+1011;0;2011-5;40;2;Mecánica de Rocas;140
+1012;0;2011-5;40;3;Geomecánica de Minas;140
+1013;0;2011-5;40;3;Geofísica Aplicada;140
+1014;0;2011-5;40;3;Mineralogía;140
+1015;0;2011-5;40;3;Petrología;140
+1016;0;2011-5;40;3;Procesos Geológicos;140
+1017;0;2011-5;40;3;Procesos de Exploración Minera;140
+1018;0;2011-5;40;4;Perforación y Voladura;140
+1019;0;2011-5;40;4;Muestreo y Preparación de Muestras;140
+1020;0;2011-5;40;4;Métodos de Explotación de Minas;140
+1021;0;2011-5;40;4;Planificación Minera;140
+1022;0;2011-5;40;4;Ventilación y Control de Ambientes Subterráneos;140
+1023;0;2011-5;40;4;Hidrogeología;140
+1024;0;2011-5;40;5;Gestión de Aguas en Minería;140
+1025;0;2011-5;40;5;Gestión de Residuos Mineros;140
+1026;0;2011-5;40;5;Ingeniería de Sistemas de Transporte de Minerales;140
+1027;0;2011-5;40;5;Procesamiento de Minerales;140
+1028;0;2011-5;40;5;Concentración de Minerales;140
+1029;0;2011-5;40;5;Metalurgia Extractiva;140
+1030;0;2011-5;40;6;Control de Calidad en Minería;140
+1031;0;2011-5;40;6;Evaluación de Recursos y Reservas Minerales;140
+1032;0;2011-5;40;6;Sistemas de Información Geográfica (SIG) en Minería;140
+1033;0;2011-5;40;6;Toma de Decisiones en Minería;140
+1034;0;2011-5;40;6;Seguridad en Minería;140
+1035;0;2011-5;40;6;Normativas y Regulaciones Mineras;140
+1036;0;2011-5;40;7;Ingeniería de Planificación Minera;140
+1037;0;2011-5;40;7;Geotecnia en Minería;140
+1038;0;2011-5;40;7;Instrumentación y Automatización en Minería;140
+1039;0;2011-5;40;7;Sistemas de Transporte Vertical en Minas;140
+1040;0;2011-5;40;7;Ingeniería de Socavones y Túneles;140
+1041;0;2011-5;40;7;Planificación y Diseño de Minas a Cielo Abierto;140
+1042;0;2011-5;40;8;Minería Subterránea;140
+1043;0;2011-5;40;8;Simulación de Procesos Mineros;140
+1044;0;2011-5;40;8;Evaluación Económica de Proyectos Mineros;140
+1045;0;2011-5;40;8;Geología de Yacimientos Minerales;140
+1046;0;2011-5;40;8;Planificación de Cierre de Minas;140
+1047;0;2011-5;40;8;Ética en Ingeniería de Minas;140
+1048;0;2011-5;40;9;Gestión de Proyectos Mineros;140
+1049;0;2011-5;40;9;Investigación en Ingeniería de Minas;140
+1050;0;2011-5;40;9;Gestión Ambiental en Minería;140
+1051;0;2011-5;40;9;Mecánica de Suelos y Rocas en Minería;140
+1052;0;2011-5;40;9;Minería Sostenible y Responsable;140
+1053;0;2011-5;40;10;Minería en la Industria Energética;140
+1054;0;2011-5;40;10;Minería en la Industria de la Construcción;140
+1055;0;2011-5;40;10;Minería en la Industria Química;140
+1056;0;2011-5;40;10;Minería en la Industria Metalúrgica;140
+1057;0;2011-5;40;10;Minería en la Industria de la Energía Renovable;140
+1058;0;2011-5;40;11;Proyecto de Tesis en Ingeniería de Minas;140
+1101;0;2014-2;40;1;Introducción a la Ingeniería Forestal;141
+1102;0;2014-2;40;1;Biología Forestal;141
+1103;0;2014-2;40;1;Botánica Forestal;141
+1104;0;2014-2;40;1;Ecología Forestal;141
+1105;0;2014-2;40;1;Silvicultura General;141
+1106;0;2014-2;40;2;Silvicultura de Especies Nativas;141
+1107;0;2014-2;40;2;Silvicultura de Especies Exóticas;141
+1108;0;2014-2;40;2;Dendrología;141
+1109;0;2014-2;40;2;Topografía y Cartografía Forestal;141
+1110;0;2014-2;40;2;Manejo de Bosques Naturales;141
+1111;0;2014-2;40;2;Planificación Forestal;141
+1112;0;2014-2;40;3;Genética Forestal;141
+1113;0;2014-2;40;3;Suelos Forestales;141
+1114;0;2014-2;40;3;Hidrología Forestal;141
+1115;0;2014-2;40;3;Manejo de Vida Silvestre;141
+1116;0;2014-2;40;3;Agroforestería;141
+1117;0;2014-2;40;3;Tecnología de la Madera;141
+1118;0;2014-2;40;4;Industria Forestal;141
+1119;0;2014-2;40;4;Economía Forestal;141
+1120;0;2014-2;40;4;Manejo de Incendios Forestales;141
+1121;0;2014-2;40;4;Restauración Ecológica de Bosques;141
+1122;0;2014-2;40;4;Conservación de Bosques y Biodiversidad;141
+1123;0;2014-2;40;4;Sistemas de Información Geográfica (SIG) en Ingeniería Forestal;141
+1124;0;2014-2;40;5;Tala Racional y Legal de Bosques;141
+1125;0;2014-2;40;5;Evaluación de Impacto Ambiental en Ingeniería Forestal;141
+1126;0;2014-2;40;5;Ordenación de Montes;141
+1127;0;2014-2;40;5;Manejo de Cuencas Hidrográficas;141
+1128;0;2014-2;40;5;Manejo de Áreas Protegidas;141
+1129;0;2014-2;40;5;Planificación y Diseño de Plantaciones Forestales;141
+1130;0;2014-2;40;6;Técnicas de Reforestación;141
+1131;0;2014-2;40;6;Silvicultura Urbana;141
+1132;0;2014-2;40;6;Manejo de Bosques Comunitarios;141
+1133;0;2014-2;40;6;Manejo de Bosques Tropicales;141
+1134;0;2014-2;40;6;Manejo de Bosques de Montaña;141
+1135;0;2014-2;40;6;Manejo de Bosques Costeros;141
+1136;0;2014-2;40;7;Manejo de Bosques de Tierras Bajas;141
+1137;0;2014-2;40;7;Planificación y Evaluación de Proyectos Forestales;141
+1138;0;2014-2;40;7;Legislación Forestal y Ambiental;141
+1139;0;2014-2;40;7;Ética en Ingeniería Forestal;141
+1140;0;2014-2;40;7;Economía y Gestión de Proyectos en Ingeniería Forestal;141
+1141;0;2014-2;40;7;Manejo de Maderas Tropicales;141
+1142;0;2014-2;40;8;Manejo de Maderas Blandas;141
+1143;0;2014-2;40;8;Manejo de Maderas Duras;141
+1144;0;2014-2;40;8;Técnicas de Aserrío;141
+1145;0;2014-2;40;8;Transformación de la Madera;141
+1146;0;2014-2;40;8;Comercialización de Productos Forestales;141
+1147;0;2014-2;40;8;Gestión de Viveros Forestales;141
+1148;0;2014-2;40;9;Manejo Integrado de Plagas y Enfermedades Forestales;141
+1149;0;2014-2;40;9;Producción de Semillas y Plantas Forestales;141
+1150;0;2014-2;40;9;Manejo de Fauna Silvestre en Bosques;141
+1151;0;2014-2;40;9;Investigación en Ingeniería Forestal;141
+1152;0;2014-2;40;9;Educación Ambiental y Comunitaria en Bosques;141
+1153;0;2014-2;40;10;Manejo de Bosques en Zonas Áridas;141
+1154;0;2014-2;40;10;Manejo de Bosques en Zonas Subárticas;141
+1155;0;2014-2;40;10;Manejo de Bosques en Zonas Subantárticas;141
+1156;0;2014-2;40;10;Manejo de Bosques en Zonas Templadas;141
+1157;0;2014-2;40;10;Manejo de Bosques en Zonas Tropicales Húmedas;141
+1158;0;2014-2;40;11;Proyecto de Tesis en Ingeniería Forestal;141
+1201;0;2017-3;40;1;Introducción a la Ingeniería Civil;142
+1202;0;2017-3;40;1;Matemáticas para la Ingeniería;142
+1203;0;2017-3;40;1;Cálculo Diferencial e Integral;142
+1204;0;2017-3;40;1;Álgebra Lineal;142
+1205;0;2017-3;40;1;Física para Ingenieros;142
+1206;0;2017-3;40;2;Química General;142
+1207;0;2017-3;40;2;Mecánica Clásica;142
+1208;0;2017-3;40;2;Mecánica de Fluidos;142
+1209;0;2017-3;40;2;Resistencia de Materiales;142
+1210;0;2017-3;40;2;Geología Aplicada a la Ingeniería;142
+1211;0;2017-3;40;2;Topografía y Cartografía;142
+1212;0;2017-3;40;3;Mecánica de Suelos;142
+1213;0;2017-3;40;3;Fundamentos de Estructuras;142
+1214;0;2017-3;40;3;Diseño de Estructuras;142
+1215;0;2017-3;40;3;Ingeniería de Tráfico;142
+1216;0;2017-3;40;3;Ingeniería Hidráulica;142
+1217;0;2017-3;40;3;Ingeniería de Transporte;142
+1218;0;2017-3;40;4;Sistemas de Transporte Urbano;142
+1219;0;2017-3;40;4;Planificación Urbana;142
+1220;0;2017-3;40;4;Construcción de Obras Civiles;142
+1221;0;2017-3;40;4;Economía de la Construcción;142
+1222;0;2017-3;40;4;Gestión de Proyectos de Ingeniería Civil;142
+1223;0;2017-3;40;4;Ética en Ingeniería Civil;142
+1224;0;2017-3;40;5;Normativas y Regulaciones en Ingeniería Civil;142
+1225;0;2017-3;40;5;Tecnología del Hormigón;142
+1226;0;2017-3;40;5;Ingeniería de Pavimentos;142
+1227;0;2017-3;40;5;Ingeniería Geotécnica;142
+1228;0;2017-3;40;5;Ingeniería de Puentes;142
+1229;0;2017-3;40;5;Ingeniería de Túneles;142
+1230;0;2017-3;40;6;Ingeniería Sísmica;142
+1231;0;2017-3;40;6;Hidrología e Hidráulica;142
+1232;0;2017-3;40;6;Diseño de Obras Hidráulicas;142
+1233;0;2017-3;40;6;Ingeniería de Ríos y Cuencas;142
+1234;0;2017-3;40;6;Ingeniería de Costas;142
+1235;0;2017-3;40;6;Geotecnia Avanzada;142
+1236;0;2017-3;40;7;Estructuras de Acero;142
+1237;0;2017-3;40;7;Estructuras de Concreto;142
+1238;0;2017-3;40;7;Estructuras de Madera;142
+1239;0;2017-3;40;7;Estructuras Metálicas;142
+1240;0;2017-3;40;7;Estructuras Prefabricadas;142
+1241;0;2017-3;40;7;Sistemas de Información Geográfica (SIG) en Ingeniería Civil;142
+1242;0;2017-3;40;8;Modelado y Simulación en Ingeniería Civil;142
+1243;0;2017-3;40;8;Mecánica de Suelos Avanzada;142
+1244;0;2017-3;40;8;Pavimentos de Carreteras;142
+1245;0;2017-3;40;8;Ingeniería de Tráfico Avanzada;142
+1246;0;2017-3;40;8;Ingeniería de Ferrocarriles;142
+1247;0;2017-3;40;8;Ingeniería de Aeropuertos;142
+1248;0;2017-3;40;9;Ingeniería Portuaria;142
+1249;0;2017-3;40;9;Gestión de Recursos Hídricos;142
+1250;0;2017-3;40;9;Ingeniería de Construcción Sostenible;142
+1251;0;2017-3;40;9;Ingeniería de Estructuras de Concreto Armado;142
+1252;0;2017-3;40;9;Ingeniería de Estructuras de Acero Avanzada;142
+1253;0;2017-3;40;10;Ingeniería de Túneles y Excavaciones Subterráneas;142
+1254;0;2017-3;40;10;Proyecto de Tesis en Ingeniería Civil;142
+1255;0;2017-3;40;10;Ingeniería de Transporte de Carga;142
+1256;0;2017-3;40;10;Ingeniería de Transporte Público;142
+1257;0;2017-3;40;10;Ingeniería de Redes de Agua y Alcantarillado;142
+1258;0;2017-3;40;11;Proyecto de Tesis en Ingeniería Obras Civiles;142

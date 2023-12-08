@@ -1,0 +1,21 @@
+.malla-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.malla-table th, .malla-table td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 0; /* Ajusta el relleno a 0 para que no haya espacio adicional */
+}
+
+.asignatura-box {
+  border: 1px solid #ccc;
+  padding: 8px; /* Ajusta el relleno según tus preferencias */
+  margin: 4px;
+  width: 150px; /* Establece el ancho deseado para cada asignatura */
+  height: 50px; /* Establece la altura deseada para cada asignatura */
+  display: flex;
+  align-items: center; /* Alinea el contenido verticalmente en el centro */
+  justify-content: center; /* Alinea el contenido horizontalmente en el centro */
+}
